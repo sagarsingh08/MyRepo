@@ -1,0 +1,12 @@
+Feature: Life of IT Tester
+
+In order to get good salary 
+As a IT Guy
+I want to keep my boss happy
+
+Scenario: I am a Tester
+Given I am a "good" tester
+When I go to work
+Then I "complete" it
+And My boss "likes" me
+But My developer "hates" me

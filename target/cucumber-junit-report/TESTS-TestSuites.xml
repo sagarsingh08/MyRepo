@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite failures="0" id="0" name="JUnitFormatter" package="cucumber.runtime.formatter" skipped="0" tests="5" time="0.180041">
+    <testcase classname="Life of IT Developer" name="I am a Java Developer" time="0.174612">
+      <system-out><![CDATA[Given I work in Microsoft...................................................passed
+When I meet Bill Gates......................................................passed
+Then I hesitate.............................................................passed
+But He is good person.......................................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="Life of IT Developer" name="I am a Linux Developer" time="0.000726">
+      <system-out><![CDATA[Given I work in Apple.......................................................passed
+When I meet Steve Jobs......................................................passed
+Then I smile................................................................passed
+But He is wise person.......................................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="Life of IT Tester" name="I am a Tester" time="0.002851">
+      <system-out><![CDATA[Given I am a "Good" tester..................................................passed
+When I go to work...........................................................passed
+Then I "Completes" it.......................................................passed
+And My boss "Salute" me.....................................................passed
+But My developer "Hates" me.................................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="Life of IT Tester" name="I am a Tester 2" time="0.000753">
+      <system-out><![CDATA[Given I am a "Bad" tester...................................................passed
+When I go to work...........................................................passed
+Then I "Mess" it............................................................passed
+And My boss "Fires" me......................................................passed
+But My developer "Likes" me.................................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="Life of IT Tester" name="I am a Tester 3" time="0.001099">
+      <system-out><![CDATA[Given I am a "Avg" tester...................................................passed
+When I go to work...........................................................passed
+Then I "MeCom" it...........................................................passed
+And My boss "Congrats" me...................................................passed
+But My developer "LiHa" me..................................................passed
+]]></system-out>
+
+    </testcase>
+
+  </testsuite>
+</testsuites>
